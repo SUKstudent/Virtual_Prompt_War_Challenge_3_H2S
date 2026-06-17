@@ -1,136 +1,93 @@
-# 🗳️ CivicAssist – Election Process Assistant
+# 🌱 EcoTrack
 
-An interactive, beginner-friendly assistant designed to help users understand elections, voter eligibility, registration, and voting steps in a simple, structured, and accessible way.
+EcoTrack is a climate action platform designed to help individuals understand, track, and reduce their carbon footprint through data-driven insights and sustainability-focused recommendations.
 
-----
+## 🚀 Overview
 
-## 🚀 Project Overview
+Climate change is one of the biggest challenges facing our planet today. Many people want to live more sustainably but often lack the tools to measure their environmental impact and identify actionable steps for improvement.
 
-CivicAssist simplifies the election process for first-time users by providing a guided, step-by-step explanation of how elections work.
+EcoTrack bridges this gap by providing an intuitive platform that enables users to:
 
-It explains:
+* Measure their carbon footprint
+* Track sustainability progress
+* Discover eco-friendly actions
+* Explore climate insights and trends
+* Learn about carbon offset opportunities
 
-What elections are
-Who is eligible to vote
-How voter registration works
-How voting is carried out
-Basic election timelines
+---
 
-The assistant uses an interactive flow that adapts based on user input to make learning simple and engaging.
+## ✨ Features
 
-----
+### 📊 Carbon Footprint Calculator
 
-## 📊 Input Features
+Calculate estimated carbon emissions based on daily activities and lifestyle choices.
 
-The assistant takes basic user inputs such as:
+### 📈 Progress Dashboard
 
-👤 Age of user
+Monitor sustainability goals and track environmental impact over time.
 
-🧠 User intent (new user / voter / learner)
+### 🎯 Action Hub
 
-❓ Questions related to elections
+Receive personalized recommendations and practical actions to reduce carbon emissions.
 
-----
+### 🌍 Climate Insights
 
-## 🎯 Output
+Explore environmental statistics, climate facts, and awareness-driven content.
 
-📌 Simple explanation of elections
+### 🗺️ Carbon Offset Map
 
-🪪 Eligibility guidance (age-based logic)
+Discover ways to contribute to carbon offset initiatives and environmental conservation efforts.
 
-🗳️ Step-by-step voting process
+---
 
-⏳ Election timeline overview
+## 🎯 Problem Statement
 
-💬 Interactive responses based on user input
+Many individuals are unaware of how their daily choices contribute to carbon emissions. Existing solutions often focus solely on awareness without providing actionable guidance.
 
------
+EcoTrack aims to transform awareness into action by combining measurement, education, and progress tracking within a single platform.
 
-## 🧠 Core Flow
+---
 
-1) User starts interaction
-2) Assistant understands user intent
-3) Provides basic explanation of elections
-4) Checks eligibility if age is provided
-5) Guides step-by-step voting process
-6) Responds to queries interactively
+## 💡 Solution
 
-----
+EcoTrack empowers users to:
 
-## 🛠️ Technologies Used
+1. Understand their environmental impact.
+2. Visualize carbon footprint data.
+3. Receive sustainability recommendations.
+4. Track progress toward greener habits.
+5. Stay informed through climate-related insights.
 
-1) HTML
+---
 
-2) CSS
+## 🛠️ Tech & Design Approach
 
-3) JavaScript
+This project was developed as a prototype focusing on:
 
-----
+* User Experience (UX)
+* Sustainability Awareness
+* Data Visualization
+* Product Thinking
+* Environmental Impact Tracking
 
-## ⚙️ Key Features
+---
 
-🧠 Beginner-friendly election explanation
+## 🌱 Future Enhancements
 
-🗳️ Step-by-step voting guidance
+* User Authentication
+* Personalized User Profiles
+* Real-time Carbon Emission Data
+* AI-powered Sustainability Recommendations
+* Community Challenges & Rewards
+* Carbon Reduction Goal Tracking
+* Mobile Application Support
 
-🪪 Eligibility awareness system
+---
 
-💬 Interactive conversational flow
+## 🏆 Challenge Submission
 
-🌍 Generalized (country-independent) design
+This project was created as part of the **Virtual Prompt Wars Challenge by HackSkill**.
 
-🌍 7 continents coverage with government types
+The challenge encouraged participants to build innovative solutions using creativity, problem-solving, and product design thinking.
 
-🗳️ Country-specific election rules (India, USA, Brazil, UK, Canada, Germany, Australia, South Korea)
-
-⚡ Lightweight and fast execution
-
-🎨 Clean Gemini-style user interface
-
-----
-
-## 🌍 Adaptability
-
-CivicAssist is designed as a global civic education assistant and does not assume any specific country. It provides universal election concepts that can apply across different electoral systems.
-
-## 🔐 Safety & Responsiveness
-
-1) Handles underage users in a respectful and encouraging manner
-
-2) Focuses on education rather than restriction
-
-3) Provides clear, non-rude eligibility guidance
-
-4) Ensures user-friendly and accessible explanations
-
-----
-
-## 🔮 Future Scope
-
-1) Country-specific election support
-
-2) Multilingual assistance
-
-3) Voice-based interaction
-
-4) Integration with real election APIs
-
-5) Personalized civic learning paths
-
-----
-
-## 🏁 Conclusion
-
-CivicAssist demonstrates how structured AI-style assistants can simplify complex civic processes like elections, making them more understandable, interactive, and accessible for all users.
-
-----
-
-## 📝 Note
-
-This project is a lightweight prototype built for the PromptWars(Hack2Skill Program), showcasing structured reasoning, user-friendly interaction design, and accessibility-focused communication.
-
-----
-
-## 🚀 Acknowledgment
-
-Developed as part of the PromptWars(Hack2Skill Program)
+---
